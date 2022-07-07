@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adnanahmadlaghari
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me by my Twitter
 
 <!---
