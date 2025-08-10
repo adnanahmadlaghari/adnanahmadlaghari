@@ -5,7 +5,7 @@ Hi, I'm Adnan Ahmad — a passionate and dedicated software developer from Pakis
 
 ### 🎓 Qualifications
 
-- ✅ **Bachelor’s Degree in Computer Science** *(you can change this to your actual qualification)*
+- ✅ **Bachelor’s Degree in Computer Science**
 - ✅ Strong foundation in **Software Development Life Cycle (SDLC)**, **Object-Oriented Programming (OOP)**, and **Database Design**
 - ✅ Skilled in **frontend technologies** like React, Tailwind CSS, Material UI
 - ✅ Experienced in **backend development** with Express, REST APIs, and MongoDB
