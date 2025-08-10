@@ -1,4 +1,4 @@
-- ### Hi, I’m @adnanahmadlaghari
+- ### Hi, I’m Adnan Ahmad
 - ## 👨‍💻 About Me
 
 Hi, I'm Adnan Ahmad — a passionate and dedicated software developer from Pakistan 🇵🇰. I specialize in building full-stack web applications using the **MERN stack (MongoDB, Express.js, React, Node.js)** and love working on real-world projects that make an impact.
@@ -18,8 +18,6 @@ Hi, I'm Adnan Ahmad — a passionate and dedicated software developer from Pakis
 - Continuously improve my coding skills and stay updated with the latest technologies
 - Build scalable, secure, and maintainable applications
 - Contribute to open-source projects and developer communities
-
-Feel free to connect with me or check out my repositories below 👇
 
 <!---
 adnanahmadlaghari/adnanahmadlaghari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
